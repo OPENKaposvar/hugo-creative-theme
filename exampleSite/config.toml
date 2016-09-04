@@ -1,7 +1,7 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
+title = "OPEN Kaposvár"
+theme = "hugo-openkaposvar-theme"
 
 [params]
 
@@ -25,7 +25,8 @@ theme = "hugo-creative-theme"
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
 
-
+	# Font Awesome embed code (see: http://fontawesome.io/get-started/)
+	fontawesomeCode = "XXXXXXXXXX"
 	# Navigation
 	[params.navigation]
 		brand = "Hugo Creative Theme"
