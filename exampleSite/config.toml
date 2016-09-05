@@ -27,6 +27,15 @@ theme = "hugo-openkaposvar-theme"
 
 	# Font Awesome embed code (see: http://fontawesome.io/get-started/)
 	fontawesomeCode = "XXXXXXXXXX"
+
+	# Cookie consent configuration (see: https://silktide.com/tools/cookie-consent/)
+	[params.cookieConsent]
+		message = "Az oldal megfelelő működéséhez sütiket használunk."
+		buttonText = "Rendben"
+		learnMoreText = "További információ"
+		learnMoreLink = "cookiepolicy"
+		theme = "dark-bottom"
+
 	# Navigation
 	[params.navigation]
 		brand = "OPEN Kaposvár"
