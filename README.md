@@ -24,9 +24,9 @@ Take a look inside the [`exampleSite`](//github.com/openkaposvar/hugo-openkaposv
 To use it, copy the [`config.toml`](//github.com/openkaposvar/hugo-openkaposvar-theme/blob/master/exampleSite/config.toml) in the root folder of website. Feel free to change strings as you like to customize the website.
 
 
-### Change the hero background
+### About the hero background
 
-The hero acts as an eye-catcher for the site. So consider to give him a nice background. You just need to replace the [`header.jpg`](//github.com/openkaposvar/hugo-openkaposvar-theme/blob/master/static/img/header.jpg) at [`static/img`](//github.com/openkaposvar/hugo-openkaposvar-theme/tree/master/static/img) with your own. But it's important that you use the same filename.
+The hero acts as an eye-catcher for the site. Our default image shows the Main street of Kaposvár (picture was taken by [@tcsizmadia](//github.com/tcsizmadia), the post-processing is credited by [@petersx7](//github.com/petersx7)). If you don't like it, just replace the [`header.jpg`](//github.com/openkaposvar/hugo-openkaposvar-theme/blob/master/static/img/header.jpg) at [`static/img`](//github.com/openkaposvar/hugo-openkaposvar-theme/tree/master/static/img) with your own. But it's important that you use the same filename.
 
 
 ### Add your services
@@ -68,7 +68,7 @@ To give your projects an image, save those under [`static/img/portfolio`](//gith
 
 ### Nearly finished
 
-In order to see your site in action, run Hugo's built-in local server. 
+In order to see your site in action, run Hugo's built-in local server.
 
     $ hugo server
 
@@ -89,7 +89,7 @@ This theme is released under the Apache License 2.0 For more information read th
 
 ## Acknowledgements
 
-Thanks to 
+Thanks to
 
 - [Steve Francia](//github.com/spf13) for creating Hugo and the awesome community around the project
 - [David Miller](//github.com/davidtmiller) for creating the original Bootstrap theme
